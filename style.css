@@ -1,0 +1,18 @@
+.form {
+  width: 500px;
+  height: 400px;
+  /* margin-left: 00px;
+  margin-right: 400px;
+  margin-top: 200px; */
+  margin: auto;
+  margin-top: 100px;
+  /* background-color: brown; */
+  border: black 1px solid;
+  padding: 50px;
+  padding-top: 90px;
+  border-radius: 20px;
+  background-color: white;
+}
+body {
+  background-color: rgb(235, 176, 142);
+}
